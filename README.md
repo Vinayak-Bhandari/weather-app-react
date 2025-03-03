@@ -1,12 +1,42 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Weather App
 
-Currently, two official plugins are available:
+This Weather app is created using **React 18**. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to Clone and Run the Project Locally
 
-## Expanding the ESLint configuration
+### Prerequisites
+- Make sure you have [Node.js](https://nodejs.org/) installed.
+- Install [Git](https://git-scm.com/) to clone the repository.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Steps to Clone and Run
+
+1. **Clone the repository**:  
+   Open your terminal and run the following command:
+   ```bash
+   https://github.com/Vinayak-Bhandari/weather-app-react.git
+   ```
+
+2. **Navigate into the project directory**:
+   ```bash
+   cd weather-app-react
+   ```
+
+3. **Install dependencies**:  
+   Run the following command to install the required dependencies:
+   ```bash
+   npm install
+   ```
+
+4. **Start the development server**:  
+   Run the following command to start the project locally:
+   ```bash
+   npm start
+   ```
+   or
+   ```bash
+   npm run dev
+   ```
+
+5. **Open the project in your browser**:  
+   The application will automatically open in your default web browser at `http://localhost:5173`. If not, navigate to that URL manually.
